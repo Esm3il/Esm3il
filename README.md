@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/ahmed-mohamed-esmail/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="70" height="70" alt="LinkedIn"/>
   </a>
+  <a href="https://www.facebook.com/ahmedesmail.04">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="70" height="70" alt="Facebook"/>
+  </a>
 </div>
 
 ---
