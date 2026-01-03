@@ -1,3 +1,6 @@
+<h2> ⚙️ &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+
 ```yaml
 name: Ahmed Esmail
 located_in: Egypt, Giza
