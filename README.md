@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome To My League!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="[https://capsule-render.vercel.app/api?text=Welcome To My League!&animation=fadeIn&type=waving&color=gradient&height=100"](https://capsule-render.vercel.app/api?type=venom&height=200&color=050524&text=Welcome%20To%20My%20League&reversal=false&textBg=false&fontColor=050524&animation=blink&strokeWidth=1)/>
 </p>
 
 ```yaml
