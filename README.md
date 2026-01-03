@@ -1,12 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=000000&text=Welcome%20To%20My%20League&reversal=false&textBg=false&fontColor=000000&animation=blink&strokeWidth=1&section=header"/>
 </p>
+
 ---
 <h2> 🌐 &nbsp;Social Media</h2>
 <a href="https://www.linkedin.com/in/ahmed-mohamed-esmail/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="70" hight="70"/>
 </a>
 
+---
 ```yaml
 name: Ahmed Esmail
 located_in: Egypt, Giza
