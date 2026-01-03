@@ -3,10 +3,12 @@
 </p>
 
 ---
-<h2> 🌐 &nbsp;Social Media</h2>
-<a href="https://www.linkedin.com/in/ahmed-mohamed-esmail/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="70" hight="70"/>
-</a>
+<p align="center">
+  <h1> 🌐 &nbsp;Social Media</h1>
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-esmail/">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="70" hight="70"/>
+  </a>
+</p>
 
 ---
 ```yaml
