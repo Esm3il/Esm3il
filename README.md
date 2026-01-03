@@ -56,3 +56,7 @@ hobbies: ["Gaming", "Movies", "Building Things", "Repairing Thing"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" hight="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" hight="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" hight="45"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=000000&text=Bye-nl-&reversal=false&textBg=false&fontColor=000000&animation=blinking&strokeWidth=1&section=footer"/>
+</p>
