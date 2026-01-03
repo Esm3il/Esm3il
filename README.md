@@ -2,13 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=000000&text=Welcome%20To%20My%20League&reversal=false&textBg=false&fontColor=000000&animation=blink&strokeWidth=1&section=header"/>
 </p>
 
----
-<p align="center">
+<div align="center">
   <h1> 🌐 &nbsp;Social Media</h1>
   <a href="https://www.linkedin.com/in/ahmed-mohamed-esmail/">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="70" hight="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="70" height="70" alt="LinkedIn"/>
   </a>
-</p>
+</div>
 
 ---
 ```yaml
@@ -54,5 +53,3 @@ hobbies: ["Gaming", "Movies", "Building Things", "Repairing Thing"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" hight="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" hight="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" hight="45"/>
-  
----
