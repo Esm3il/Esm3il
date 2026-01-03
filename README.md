@@ -43,5 +43,6 @@ hobbies: ["Gaming", "Movies", "Building Things", "Repairing Thing"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" hight="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="45" hight="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" hight="45"/>
+  
 ---
-[![Ahmed Esmail's GitHub stats](https://github-readme-stats.vercel.app/api?username=esm3il)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/esm3il/esm3il/blob/output/github-contribution-grid-snake.svg)
