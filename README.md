@@ -10,14 +10,14 @@ education:
 fields_of_interests:
   [
     "Web App Penetration Testing",
-    "Web Development"
+    "Nestjs Web Applications"
   ]
 technical_background:
   [
     "IT Intern in Banque Misr"
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["SSRF Hacking","GraphQL Hacking","Cloud Attacks","Active Directories Hacking"]
+2026 Goals: ["Build 5+ Full Stack WebApps","Solve All BurpSuite Labs","Reach Top 15 in HackTheBox"]
+hobbies: ["Gaming", "Movies", "Building Things", "Repairing Thing"]
 ```
