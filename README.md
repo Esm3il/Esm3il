@@ -25,7 +25,7 @@ education:
 fields_of_interests:
   [
     "Web App Penetration Testing",
-    "Nestjs Web Applications"
+    "Nextjs Web Applications"
   ]
 technical_background:
   [
